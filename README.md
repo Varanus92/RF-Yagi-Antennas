@@ -10,6 +10,8 @@ make use of CST Studio Suite , and comparethe result with a realalistic one you 
 Using CST Studio Suite,
 first design the feeder, for that calculate Lambda for the given frequency -Lambda=c/f 
 
+![](Antena_configuration.png)
+
 I have used this book:
 "Antenna Theory Analysis and Design Cropped fixed Constantine A Balanis 2nd Ed John Will"
 to understand the distance between the reflector,feeder and director.
