@@ -9,6 +9,7 @@ make use of CST Studio Suite , and comparethe result with a realalistic one you 
 ## Solution:
 Using CST Studio Suite,
 first design the feeder, for that calculate Lambda for the given frequency -Lambda=c/f 
+to calculate the accurate length of each  להמשיך פה!!!
 
 ![](Antena_configuration.png)
 
