@@ -47,6 +47,21 @@ Radiation Pattern logritmic and linera
 see the incredible enhancment in the directivity and gain!
 
 
+--------
+Now its time to build the actual Yaggi:
+first i build the feeder and maked sure its deliver the signal at the requested frequency (1800Mhz)
+![](feeder_test.png)
+
+after that i have build the actual Yaggi - for this picture i am greatful thanks to Tal Yehuda that allowed me to use his :
+![](Yaggi_build.png)
+
+in the test itself i have transmit at 1800Mhz from my anntena and saw on the receiver the received signal - amplitude and freuency.
+![](test.png)
+
+
+
+
+
 
 
 
