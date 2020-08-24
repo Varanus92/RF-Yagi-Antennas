@@ -15,18 +15,18 @@ here are some graph:
 ![](s11_feeder.png)
 
 S11 graph 
-![](s11_feeder.png)
+![](pic/s11_feeder.png)
 
 
 Radiation Pattern logritmic and linera
-![](feederr.png)
-![](feeder_linear.png)
+![](pic/feederr.png)
+![](pic/feeder_linear.png)
 
 now i started to build the actual Yagi by adding reflctors and feeders,
 
 to understand the distance between the reflectors,feeder and director, i have used this guide :
 
-![](Antena_configuration.png)
+![](pic/Antena_configuration.png)
 the guide above was taken from the book:
 "Antenna Theory Analysis and Design Cropped fixed Constantine A Balanis 2nd Ed John Will"
 
@@ -34,12 +34,26 @@ after adding the reflector i could see big improvment of the S11 and radiation p
 here the final picturs of the Yaggi:  
 
 S11 graph 
-![](s11_Yaggi.png)
+![](pic/s11_Yaggi.png)
 
 
 Radiation Pattern logritmic and linera
-![](rp_Yaggi.png)
-![](rp_L_Yaggi.png)
+![](pic/rp_Yaggi.png)
+![](pic/rp_L_Yaggi.png)
+
+Magnetic and Electric field sections:
+
+Electric:
+![](pic/E_field.png)
+
+Magnetic:
+![](pic/M_field.png)
+
+Impedance: (and yes...its complex)
+![](pic/Impedance.png)
+
+
+
 
 
 
@@ -50,13 +64,13 @@ see the incredible enhancment in the directivity and gain!
 --------
 Now its time to build the actual Yaggi:
 first i build the feeder and maked sure its deliver the signal at the requested frequency (1800Mhz)
-![](feeder_test.png)
+![](pic/feeder_test.png)
 
 after that i have build the actual Yaggi - for this picture i am greatful thanks to Tal Yehuda that allowed me to use his :
-![](Yaggi_build.png)
+![](pic/Yaggi_build.png)
 
 in the test itself i have transmit at 1800Mhz from my anntena and saw on the receiver the received signal - amplitude and freuency.
-![](test.png)
+![](pic/test.png)
 
 
 
