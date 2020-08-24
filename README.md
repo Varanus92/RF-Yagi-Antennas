@@ -42,6 +42,8 @@ Radiation Pattern logritmic and linera
 ![](rp_L_Yaggi.png)
 
 
+
+
 see the incredible enhancment in the directivity and gain!
 
 
