@@ -12,7 +12,7 @@ first i designed the feeder, for that - calculate Lambda for the given frequency
 i have added the cilinder,brick,contacts,generator,
 at first i didn get the accurate frequency for the S11 graph so i did an optimization - the feeder is complet
 here are some graph:
-![](s11_feeder.png)
+![](pic/s11_feeder.png)
 
 S11 graph 
 ![](pic/s11_feeder.png)
@@ -20,6 +20,7 @@ S11 graph
 
 Radiation Pattern logritmic and linera
 ![](pic/feederr.png)
+
 ![](pic/feeder_linear.png)
 
 now i started to build the actual Yagi by adding reflctors and feeders,
@@ -27,18 +28,20 @@ now i started to build the actual Yagi by adding reflctors and feeders,
 to understand the distance between the reflectors,feeder and director, i have used this guide :
 
 ![](pic/Antena_configuration.png)
+
 the guide above was taken from the book:
 "Antenna Theory Analysis and Design Cropped fixed Constantine A Balanis 2nd Ed John Will"
 
 after adding the reflector i could see big improvment of the S11 and radiation pattern (about X4 times improvment - the reflector concentrate of power wasted in the unwanted directions),the improvment increase while adding each of the directors.
 here the final picturs of the Yaggi:  
 
-S11 graph 
+S11 graph :
 ![](pic/s11_Yaggi.png)
 
 
 Radiation Pattern logritmic and linera
 ![](pic/rp_Yaggi.png)
+
 ![](pic/rp_L_Yaggi.png)
 
 Magnetic and Electric field sections:
