@@ -12,6 +12,8 @@ first i designed the feeder, for that - calculate Lambda for the given frequency
 i have added the cilinder,brick,contacts,generator,
 at first i didn get the accurate frequency for the S11 graph so i did an optimization - the feeder is complet
 here are some graph:
+# להוסיף פה איור של המחולל בלבד ובסוף גם תמונה של כל האנטנה
+# בנוסף לעבור ולראות שכל התמונות עלו טוב + להעלות את הקובץ עצמו של CST
 ![](pic/s11_feeder.png)
 
 S11 graph 
