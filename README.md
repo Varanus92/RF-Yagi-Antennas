@@ -12,8 +12,8 @@ first i designed the feeder, for that - calculate Lambda for the given frequency
 i have added the cilinder,brick,contacts,generator,
 at first i didn get the accurate frequency for the S11 graph so i did an optimization - the feeder is complet
 here are some graph:
-# להוסיף פה איור של המחולל בלבד ובסוף גם תמונה של כל האנטנה
-# בנוסף לעבור ולראות שכל התמונות עלו טוב + להעלות את הקובץ עצמו של CST
+Dipole/fidder - simulation:# בנוסף לעבור ולראות שכל התמונות עלו טוב + להעלות את הקובץ עצמו של CST
+![](pic/dipole_only.png)
 
 
 S11 graph 
@@ -39,6 +39,9 @@ the guide above was taken from the book:
 
 after adding the reflector i could see big improvment of the S11 and radiation pattern (about X4 times improvment - the reflector concentrate of power wasted in the unwanted directions),the improvment increase while adding each of the directors.
 here the final picturs of the Yaggi:  
+
+Yaggi simulation:
+![](pic/yaggi_sim.png)
 
 S11 graph :
 ![](pic/s11_Yaggi.png)
