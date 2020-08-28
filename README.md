@@ -12,7 +12,8 @@ first i designed the feeder, for that - calculate Lambda for the given frequency
 i have added the cilinder,brick,contacts,generator,
 at first i didn get the accurate frequency for the S11 graph so i did an optimization - the feeder is complet
 here are some graph:
-Dipole/fidder - simulation:# בנוסף לעבור ולראות שכל התמונות עלו טוב + להעלות את הקובץ עצמו של CST
+
+Dipole/fidder - simulation:
 ![](pic/dipole_only.png)
 
 
@@ -22,14 +23,13 @@ S11 graph
 
 Radiation Pattern: 
 
-logritmic:
+Logritmic:
 ![](pic/feeder.png)
 
-linera:
+Linera:
 ![](pic/feeder_linear.png)
 
 now i started to build the actual Yagi by adding reflctors and feeders,
-
 to understand the distance between the reflectors,feeder and director, i have used this guide :
 
 ![](pic/Antena_configuration.png)
