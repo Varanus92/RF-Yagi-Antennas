@@ -14,15 +14,18 @@ at first i didn get the accurate frequency for the S11 graph so i did an optimiz
 here are some graph:
 # להוסיף פה איור של המחולל בלבד ובסוף גם תמונה של כל האנטנה
 # בנוסף לעבור ולראות שכל התמונות עלו טוב + להעלות את הקובץ עצמו של CST
-![](pic/s11_feeder.png)
+
 
 S11 graph 
 ![](pic/s11_feeder.png)
 
 
-Radiation Pattern logritmic and linera
-![](pic/feederr.png)
+Radiation Pattern: 
 
+logritmic:
+![](pic/feeder.png)
+
+linera:
 ![](pic/feeder_linear.png)
 
 now i started to build the actual Yagi by adding reflctors and feeders,
@@ -46,15 +49,19 @@ Radiation Pattern logritmic and linera
 
 ![](pic/rp_L_Yaggi.png)
 
+
 Magnetic and Electric field sections:
 
 Electric:
-![](pic/E_field.png)
+![](pic/E_field.png =250x250)
+
 
 Magnetic:
-![](pic/M_field.png)
+![](pic/M_field.png =250x250 )
+
 
 Impedance: (and yes...its complex)
+
 ![](pic/Impedance.png)
 
 
