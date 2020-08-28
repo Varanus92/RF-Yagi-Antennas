@@ -84,15 +84,20 @@ first i build the feeder and maked sure its deliver the signal at the requested 
 
 
 
+
+
+
 after that i have build the actual Yaggi - for this picture i am greatful thanks to Tal Yehuda that allowed me to use his :
 
 ![](pic/Yaggi_build.png)
 
 
 
+
+
 in the test itself i have transmit at 1800Mhz from my anntena and saw on the receiver the received signal - amplitude and freuency.
 
-![](pic/test.png)
+![](pic/Test.png)
 
 
 
