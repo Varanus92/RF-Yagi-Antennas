@@ -53,7 +53,7 @@ Radiation Pattern logritmic and linera
 Magnetic and Electric field sections:
 
 Electric:
-![](pic/E_field.png | width=100)
+![test](pic/E_field.png =100x100)
 
 
 Magnetic:
