@@ -53,11 +53,11 @@ Radiation Pattern logritmic and linera
 Magnetic and Electric field sections:
 
 Electric:
-![](pic/E_field.png =250x250)
+![](pic/E_field.png | width=100)
 
 
 Magnetic:
-![](pic/M_field.png =250x250 )
+![](pic/M_field.png | width=100 )
 
 
 Impedance: (and yes...its complex)
