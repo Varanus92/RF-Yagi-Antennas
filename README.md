@@ -17,7 +17,7 @@ Dipole/fidder - simulation:
 ![](pic/dipole_only.png)
 
 
-S11 graph 
+S11 graph:
 ![](pic/s11_feeder.png)
 
 
@@ -37,17 +37,17 @@ to understand the distance between the reflectors,feeder and director, i have us
 the guide above was taken from the book:
 "Antenna Theory Analysis and Design Cropped fixed Constantine A Balanis 2nd Ed John Will"
 
-after adding the reflector i could see big improvment of the S11 and radiation pattern (about X4 times improvment - the reflector concentrate of power wasted in the unwanted directions),the improvment increase while adding each of the directors.
-here the final picturs of the Yaggi:  
+after adding the reflector i could see big improvment of the S11 and radiation pattern (about X4 times improvment - the reflector concentrate the power wasted in the unwanted directions),the improvment increase while adding each of the directors.
+here the final picturs of the Yagi:  
 
-Yaggi simulation:
+Yagi simulation:
 ![](pic/yaggi_sim.png)
 
 S11 graph :
 ![](pic/s11_Yaggi.png)
 
 
-Radiation Pattern logritmic and linera
+Radiation Pattern logritmic and linera:
 ![](pic/rp_Yaggi.png)
 
 ![](pic/rp_L_Yaggi.png)
@@ -65,7 +65,7 @@ Magnetic:
 
 
 
-Impedance: (and yes...its complex)
+Impedance: (yes...its complex)
 
 ![](pic/Impedance.png)
 
@@ -80,8 +80,8 @@ see the incredible enhancment in the directivity and gain!
 
 --------
 
-Now its time to build the actual Yaggi:
-first i build the feeder and maked sure its deliver the signal at the requested frequency (1800Mhz)
+Now its time to build the actual Yagi:
+first i have built the feeder and made sure it deliver the signal at the requested frequency (1800Mhz)
 
 ![](pic/feeder_test.png)
 
@@ -90,7 +90,7 @@ first i build the feeder and maked sure its deliver the signal at the requested 
 
 
 
-after that i have build the actual Yaggi - for this picture i am greatful thanks to Tal Yehuda that allowed me to use his :
+after that i have build the actual Yagi - for this picture i am grateful to Tal Yehuda that allowed me to use his :
 
 ![](pic/Yaggi_build.png)
 
@@ -98,7 +98,7 @@ after that i have build the actual Yaggi - for this picture i am greatful thanks
 
 
 
-in the test itself i have transmit at 1800Mhz from my anntena and saw on the receiver the received signal - amplitude and freuency.
+in the test itself i have transmitted at 1800Mhz from my anntena and saw on the  received signal - amplitude and freuency.
 
 ![](pic/Test.png)
 
